@@ -1,3 +1,6 @@
 tacos
 cerveza
 pizza
+batman
+la isla
+hercules
